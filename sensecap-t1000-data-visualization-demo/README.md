@@ -8,7 +8,7 @@ This demo demonstrates sensor data visualization with the Seeed Studio SenseCAP 
 
 ## Features
 
-- **Device**: [Seeed Studio SenseCAP T1000](https://www.seeedstudio.com/)
+- **Device**: [Seeed Studio SenseCAP T1000](https://www.seeedstudio.com/sensecap-t1000-tracker)
 - **LNS (LoRaWAN Network Server)**: [Browse Integrations](https://www.thethingsnetwork.org/docs/lorawan/the-things-stack.html)
 - **Data Processing**: [@qubitro/client Node.JS SDK](https://www.npmjs.com/package/@qubitro/client) with Qubitro (DDP)
 
